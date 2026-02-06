@@ -42,4 +42,4 @@ Columns included:
 - Table: Top Loss-Making Products
 
 ## Project Status
-Completed – Ready for portfolio and interview presentation
+Completed
