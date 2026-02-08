@@ -53,7 +53,7 @@ All analysis steps were executed in a **single Jupyter Notebook**:
 
 ## 📈 Power BI Dashboard
 
-The Power BI dashboard was built using processed outputs from the Python analysis.
+The dashboard was created using aggregated outputs from the Python analysis to communicate insights clearly to business stakeholders.
 
 **Included files:**
 - 📁 `dashboard/ecommerce_dashboard.pbix`
@@ -65,6 +65,8 @@ The Power BI dashboard was built using processed outputs from the Python analysi
 - Bar Charts: Sales & Profit by Region and Category  
 - Table: Top Loss-Making Products  
 
+![Dashboard Preview](dashboard/dashboard_preview.png)
+
 ---
 
 ## 📁 Repository Structure
@@ -72,17 +74,19 @@ The Power BI dashboard was built using processed outputs from the Python analysi
 ecommerce-eda-python/
 │
 
+├── dashboard/
+
+│ ├── Dashboard.pbix
+
+│ └── dashboard_preview.png
+
 ├── data/
+
+│ └── ecommerce_sales_data.csv
 
 ├── notebook/
 
-│ └── ecommerce_analysis.ipynb
-
-├── dashboard/
-
-│ ├── ecommerce_dashboard.pbix
-
-│ └── dashboard_preview.png
+│ └── ecommerce_sales_analysis.ipynb
 
 ├── dashboard_month.csv
 
