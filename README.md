@@ -56,7 +56,7 @@ All analysis steps were executed in a **single Jupyter Notebook**:
 The dashboard was created using aggregated outputs from the Python analysis to communicate insights clearly to business stakeholders.
 
 **Included files:**
-- 📁 `dashboard/ecommerce_dashboard.pbix`
+- 📁 `dashboard/Dashboard.pbix`
 - 🖼️ `dashboard/dashboard_preview.png`
 
 **Dashboard components:**
